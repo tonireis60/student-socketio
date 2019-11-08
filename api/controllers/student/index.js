@@ -1,6 +1,6 @@
 import Router from 'express';
 
-import create from './create.mjs';
+import create from './create.js';
 import update from './update.js';
 import remove from './remove.js';
 import list from './list.js';

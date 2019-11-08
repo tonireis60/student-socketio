@@ -1,6 +1,6 @@
 //import https from 'https';
 import http from 'http';
-import app from './app.mjs';
+import app from './app.js';
 import socketio from 'socket.io';
 import chatRouter from './controllers/chat/index.js';
 
